@@ -11,4 +11,4 @@ This repository contains python based interactive Tic-Tac-Toe game.
 
 # Screenshots
 
-![Alt Text](relative/path/to/your/screenshot/12.png)
+![App Screenshot](main/screenshots/12.PNG)
