@@ -10,5 +10,4 @@ This repository contains python based interactive Tic-Tac-Toe game.
 
 
 # Screenshots
-
-![App Screenshot](main/screenshots/12.PNG)
+https://github.com/Eric-Sparda/Tic-Tac-Toe/blob/main/screenshots/12.PNG
