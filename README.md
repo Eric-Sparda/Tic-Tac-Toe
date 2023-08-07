@@ -11,4 +11,5 @@ This repository contains python based interactive Tic-Tac-Toe game.
 
 # Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot 1](screenshot/12.png)
+![App Screenshot 2](screenshot/13.png)
